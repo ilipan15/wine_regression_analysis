@@ -1,4 +1,4 @@
-[wine!](wine.jpg)
+![wine!](wine.jpg)
 
 ## Project
 
